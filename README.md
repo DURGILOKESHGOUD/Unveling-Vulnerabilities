@@ -1,2 +1,6 @@
-# Unveling-Vulnerabilities
-*Unveiling Vulnerabilities is a project that finds and examines security flaws in web applications. It focuses on spotting common threats like XSS, SQL injection, and CSRF. The project shows how these threats work and suggests strong defense strategies to improve overall cybersecurity and system strength.
+# Unveling-Vulnerabilities Of Web Attacks Considering Man In The Middle Attack And Session Hijacking
+This project focuses on identifying and analyzing vulnerabilities in modern web applications, specifically targeting Man-in-the-Middle (MitM) attacks and session hijacking.
+It investigates how attackers intercept and manipulate web traffic to steal sensitive information, capture session tokens, and compromise communication security.
+By simulating these attack scenarios under various network and configuration conditions, the study aims to uncover overlooked weaknesses in widely used web security practices.
+
+
